@@ -1,5 +1,7 @@
 Agenda:  Deploying GitHub repository to Google Cloud Platform
 
+Tasks:
+
 1. Imported a Repo called hellogitworld
 
 
@@ -28,7 +30,6 @@ For configuration files and in applications where data is being stored or transm
 
 
 8. Built trigger in Cloud Build
-
 
 
 In Cloud Build Triggers page and choose Run trigger. 
