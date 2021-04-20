@@ -2,6 +2,7 @@ Deploying GitHub repository to Google Cloud Platform
 
 1. Imported a Repo called hellogitworld
 
+
 2. Add YAML files in the Repo 
 
 For configuration files and in applications where data is being stored or transmitted.
@@ -11,7 +12,10 @@ For configuration files and in applications where data is being stored or transm
 # app.yaml
 
 
-3. Add quickstart.sh
+3. Created worklow
+
+
+4. Add quickstart.sh
 
 
 5. Mirror the GitHub repository to Cloud Source Repositories
